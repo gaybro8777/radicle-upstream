@@ -163,6 +163,7 @@
     "reset:state": "scripts/reset-state.sh"
   },
   "dependencies": {
+    "@ethersproject/cli": "^5.0.7",
     "@types/qs": "^6.9.5",
     "@walletconnect/client": "^1.3.1",
     "browserify": "^17.0.0",
